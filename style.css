@@ -1,0 +1,30 @@
+body{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: #818181;
+    margin: 0%;
+}
+
+
+
+
+h1{
+    font-size: 63px;
+    color: #383838;
+    padding: 18px;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #363639;
+font-weight: 689;
+}
+
+.carousel.inner{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black ;
+}
